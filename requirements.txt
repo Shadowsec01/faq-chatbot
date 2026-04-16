@@ -1,0 +1,5 @@
+flask>=3.0.0
+gunicorn>=21.2.0
+pandas>=2.1.0
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.21.0
